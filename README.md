@@ -9,7 +9,6 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -24,7 +23,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/final-solution.jpg)
+![](images/final-solution-one.jpg)
+![](images/final-solution-two.jpg)
+![](images/final-solution-three.jpg)
+![](images/final-solution-four.jpg)
+![](images/final-solution-five.jpg)
+![](images/final-solution-six.jpg)
+![](images/final-solution-seven.jpg)
+![](images/final-solution-eight.jpg)
+![](images/final-solution-nine.jpg)
 
 ### Links
 
@@ -44,7 +51,7 @@ Users should be able to:
 
 ### What I learned
 
-This was a very fun and exciting comeptition! I learnt a lot on how much I can do in a short time limit and realised my limits. I got used be. Cant wait to do more challenges! 
+This was a very fun and exciting comeptition! I learnt a lot on how much I can do in a short time limit and realised my limits. I had a lot more plans with theis challenge, but due to time constraints I had to make do with what I could. Overall a great experience!
 
 
 ### Useful resources
