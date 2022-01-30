@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL](https://mohsin316.github.io/Tip-Calculator/)
+- [Live Site URL](https://mohsin316.github.io/mohsin_Seatseek/)
 
 ## My process
 
